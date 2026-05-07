@@ -11,7 +11,7 @@ def get_connection():
             "SERVER=localhost;"  # nombre del servidor
             "DATABASE=ControlAsistencias;"  # Nombre de la base de datos
             "UID=sa;"  # Usuario de SQL Server
-            "PWD=AliceD4fn3!;"  # Contraseña
+            "PWD=tuconstaseña;"  # Contraseña
             "Trusted_Connection=no;"  # Usa 'yes' si estas en  autenticación Windows
         )
         print("Conexión establecida.....")
